@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: myapp
+pool: Demo
 
 steps:
 - task: Maven@3
